@@ -7,7 +7,7 @@
 <p>Open ➔ Install ➔ Choose Todaydeals</p>
 
 # Demo
-Page demo: <p><a href="https://www.todaydeals.org/employee-discounts">Employee Discounts</a></p>
+Page demo: <p><a href="https://www.todaydeals.org/employee-discounts" target="_blank">Employee Discounts</a></p>
 
 # License
 <p><a href="https://github.com/todaydealsorg/snippets/blob/main/LICENSE">MIT license</a></p>
